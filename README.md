@@ -1,10 +1,10 @@
 # wxue0283_9103_tut01
 
-## **Imaging Technique Inspiration**
+## **1.Imaging Technique Inspiration**
 
  **[A link to the artwork]** (https://www.xiaohongshu.com/explore/6537a63e000000001e02f2d4)
 
-What I am inspired in this artwork is that the visual effect where lines split into different *colored* branches, then converge and recombine themselves into the original form. The harmonious color gradient adds a sense of visual richness to the orderly shapes or layout without making the original artwork (our group is probably doing the ‘Apple Tree’) appear chaotic. Moreover, this *color change* creates a sense of rhythm, which I think would be perfect for audio-based animation. I might be able to combine this dynamic with the frequency or form the waveform of audio clips to create a harmonious sense of movement within the artwork.
+What I am inspired in this artwork is that the visual effect where lines split into different colored branches, then converge and recombine themselves into the original form. The harmonious *color gradient* adds a sense of visual richness to the orderly shapes or layout without making the original artwork (our group is probably doing the ‘Apple Tree’) appear chaotic. Moreover, *the change of color creates a sense of rhythm*, which I think would be perfect for audio-based animation. I might be able to combine this dynamic with the frequency or form the waveform of audio clips to create a harmonious sense of movement within the artwork.
 
 ### **Example screenshots**
 ![Example Screenshots](readMeImages/example1.jpg)
@@ -13,7 +13,7 @@ What I am inspired in this artwork is that the visual effect where lines split i
 
 
 
-## **Coding Technique Exploration**
+## **2.Coding Technique Exploration**
 
 **[A link to the coding technique]** (https://p5js.org/examples/color-lerp-color.html)
 
