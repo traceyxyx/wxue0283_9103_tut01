@@ -20,4 +20,5 @@ What I am inspired in this artwork is the visual effect where lines split into d
   I found a piece of code on the p5.js website called "LerpColor." This technique helps generate intermediate colors between colors A and B. I believe this method allows for smooth and harmonious color transitions while the graphics are in motion. For example, I can create a branching and merging line effect by arranging many small rectangles and grouping them. Then, by applying "LerpColor" to each group, every branch can own a nice gradiant so as to achieve a visual effect similar to the inspiration artwork.
 
  ### **Example Screenshot**
+ * some colors are generaterd between color A and B
  ![Example Screenshots](readMeImages/example6.png)
